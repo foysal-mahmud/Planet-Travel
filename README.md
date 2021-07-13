@@ -1,10 +1,44 @@
 # Planet-Travel
-Travelling Agency Web Application.
+A Travelling Agency Web Application where User can see all Tour Packages and also explore that place available blog site. But only authenticated user can comment on a blog post or make a reservation for any Tour packages. There is also a member club where anyone can join and see other club members details info.
 
 ## Technology used: 
   ### Frontend: React js, React Hook, Bootstrap.
   ### Backend: Laravel Rest API.
   ### Database: MySQL.
+  
+##
+## 👨‍💻 Different Roles:
+### 🌱 Visitor:
+   ⚡ Can see all Travelling stories, but can not comment any post. <br/>
+   ⚡ Can join Member Club and see others club members details. <br/>
+   ⚡ Can see all Tour Packages, but can not make a Reservation. <br/>
+   ⚡ Can send message through Contact Us form. <br/>
+   ⚡ Can search any Club Member by name(Dynamic Search). <br/>
+ 
+ ### 🌱 Authenticated USER:
+   ⚡ Login and Registration feature. <br/>
+   ⚡ Have their own profile and change password option. <br/>
+   ⚡ Can see all Travelling stories and also can comment on any post. <br/>
+   ⚡ Can see all Tour Packages and make a Reservation. <br/>
+   ⚡ Have their own Reservation profile where they can see all their reservation packages status. <br/>
+   ⚡ Can join Member CLub and see others club members details. <br/>
+   
+ ### 🌱 ADMIN Section:
+   **Travelling Stories:** <br/>
+   ⚡ Create a Travelling Story with Title, Content and Picture of any travelling place. <br/>
+   ⚡ Update or Delete any Travelling Stories. <br/>
+   ⚡ Can Hide any Travelling Stories from User and also can Restore that story. <br/>
+   
+   **Tour Packages:** <br/>
+   ⚡ Create a Tour Packages with Package Name, Price, Duration, Date and related Travelling story. <br/>
+   ⚡ Update or Delete any Tour Packages. <br/>
+   ⚡ Can Hide any Tour Packages from User and also can Restore that Tour Packages. <br/>
+   ⚡ Can see all Pending reservation and Approved or Decline any User Reservation. <br/>
+   
+   **Member Club:** <br/>
+   ⚡ Add, Update, Delete any Club Member and also can see their details info. <br/>
+   ⚡ Can see all visitor messages. <br/>
+   
 
 ##
 # Home Page:
