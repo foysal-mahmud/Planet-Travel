@@ -2,9 +2,7 @@
 A Travelling Agency Web Application where User can see all Tour Packages and also explore that place available blog site. But only authenticated user can comment on a blog post or make a reservation for any Tour packages. There is also a member club where anyone can join and see other club members details info.
 
 ## Technology used: 
-  ### Frontend: React js, React Hook, Bootstrap.
-  ### Backend: Laravel Rest API.
-  ### Database: MySQL.
+![Project Snapsort](https://github.com/foysal-mahmud/Planet-Travel/blob/main/ProjectImages/tech.png) 
   
 ##
 ## 👨‍💻 Different Roles:
@@ -38,7 +36,9 @@ A Travelling Agency Web Application where User can see all Tour Packages and als
    **Member Club:** <br/>
    ⚡ Add, Update, Delete any Club Member and also can see their details info. <br/>
    ⚡ Can see all visitor messages. <br/>
-   
+  
+# Full Overview of Planet Travel Project:
+![Project Snapsort0](https://github.com/foysal-mahmud/Planet-Travel/blob/main/Planet_Travel.png) 
 
 ##
 # Home Page:
