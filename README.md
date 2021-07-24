@@ -1,5 +1,5 @@
 # Planet-Travel
-A Travelling Agency Web Application where User can see all Tour Packages and also explore that place available blog site. But only authenticated user can comment on a blog post or make a reservation for any Tour packages. There is also a member club where anyone can join and see other club members details info.
+A Travelling Agency Web Application where User can see all Tour Packages and also explore that place available blog site. But only authenticated user can comment on a blog post or make a reservation for any Tour packages. There is also a member club where anyone can join and see other club members details info. :blush:
 
 ![Project Snapsort](https://github.com/foysal-mahmud/Planet-Travel/blob/main/ProjectImages/tech.png) 
   
